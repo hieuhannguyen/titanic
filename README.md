@@ -6,4 +6,4 @@ I came across [this](https://www.kaggle.com/competitions/titanic/overview) compe
 I enjoyed this project immensely. It was extremely fun wrangling the dataset and trying to preserve as much information as possible. I also briefly researched the Titanic event to obtain some domain knowledge that was helpful. I learned two new models (MLPC and SVC), and found the best model to be a hypertuned Random Forest Classifier (accuracy = 0.87, AUC = 0.84). <br>
 What I am most proud of when working on this is the logic flow of the notebook and the way I recorded my decisions to come back and reassess them later.
 ### Data Sources
-Kaggle provided the datasets. 
+Kaggle provided the datasets that can be downloaded from this repo. train.csv contains 'ground truths' where test.csv does not. 
